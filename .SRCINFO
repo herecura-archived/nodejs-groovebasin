@@ -1,9 +1,10 @@
 pkgbase = nodejs-groovebasin
 	pkgdesc = Music player server with a web-based user interface inspired by Amarok 1.4
 	pkgver = 1.2.1
-	pkgrel = 3
+	pkgrel = 4
 	url = http://groovebasin.com/
-	arch = any
+	arch = i686
+	arch = x86_64
 	license = MIT
 	makedepends = python2
 	depends = nodejs
